@@ -1,6 +1,9 @@
 def plus(a,b):
     return a+b
 
+def multi(a,b):
+    return(a*b)
+
 text = 'hi there'
 
 if __name__ == '__main__':
